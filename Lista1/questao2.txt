@@ -1,2 +1,0 @@
-2.c
-  Os resultados obtidos não dizem necessariamente nada sobre efeito causal.
