@@ -12,3 +12,6 @@ coef(modelo_htv)
 anova(modelo_htv)
 summary(modelo_htv)
 
+## Para cada unidade de aumento em motheduc, educ aumenta em 0.19 unidades, 
+# mantendo as demais variáveis constantes. A interpretação é similar para as outras.
+# Já para abil, a fórmula de incremento é "educ = 0.40 + 0.10abil"
