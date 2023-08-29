@@ -1,0 +1,2 @@
+Não dizemos que aceitamos a hipótese nula pois não temos a informação completa da população, apenas uma amostra dela. Dessa forma, mesmo após a realização de um teste, ainda existe 
+incerteza sobre as hipóteses testadas. Essa informação dita anteriormente é corroborada pela existência do erro do tipo 1 e erro do tipo 2.
